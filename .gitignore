@@ -1,5 +1,7 @@
 .idea/
 .vscode/
+tcurve.txt
+*autosave*.TSC
 
 # Created by .ignore support plugin (hsz.mobi)
 ### Python template
